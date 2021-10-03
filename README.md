@@ -34,3 +34,7 @@ RFM (Recency Frequency Monetary) Model Creation.
 Created Customer Clusters using K Means Clustering Algorithm and Analyized the Clusters.
 
 Tableau Dashboard and Worksheet screenprints included in repository.
+
+
+
+
